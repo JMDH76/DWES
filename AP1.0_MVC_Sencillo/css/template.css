@@ -1,0 +1,26 @@
+body {
+    background-color: lightgreen;
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+}
+
+#cab{
+    flex:1;
+    margin-left: 20px;
+    padding-top: 30px;
+    padding-left: 60px;
+}
+
+#titulo{
+    flex:4;
+    text-align: left;
+    padding-top: 8px;
+}
+
+.list{
+    margin-left: 250px;
+    list-style-type: none;
+}
