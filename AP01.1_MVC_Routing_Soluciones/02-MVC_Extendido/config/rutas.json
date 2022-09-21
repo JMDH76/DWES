@@ -1,0 +1,14 @@
+{
+    "main":{
+        "controller":"MainController",
+        "action": "main"
+    },
+    "detalle":{
+        "controller": "DetalleController",
+        "action": "detalleTarea"
+    },
+    "defaul":{
+        "controller": "MainController",
+        "action": "default"
+    }
+}
